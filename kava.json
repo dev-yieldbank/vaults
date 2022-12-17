@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sushi-kava-wkava-usdc",
+    "name": "USDC-KAVA LP",
+    "token": "USDC-KAVA LP",
+    "tokenAddress": "0x88395b86cF9787E131D2fB5462a22b44056BF574",
+    "tokenDecimals": 18,
+    "tokenProviderId": "sushiswap",
+    "earnedToken": "yieldBankSushiKAVA-USDC",
+    "earnedTokenAddress": "0x605E65d82A6fa21A7383990D4B2eAbe343040b52",
+    "earnContractAddress": "0x605E65d82A6fa21A7383990D4B2eAbe343040b52",
+    "oracle": "lps",
+    "oracleId": "sushi-kava-wkava-usdc",
+    "status": "active",
+    "platformId": "sushiswap",
+    "assets": ["USDC", "KAVA"],
+    "strategyTypeId": "lp",
+    "risks": ["COMPLEXITY_LOW", "BATTLE_TESTED", "IL_LOW", "MCAP_MEDIUM", "AUDIT"],
+    "addLiquidityUrl": "https://www.sushi.com/earn/kava:0x88395b86cf9787e131d2fb5462a22b44056bf574/add",
+    "buyTokenUrl": "https://www.sushi.com/swap",
+    "network": "kava",
+    "createdAt": 1671287731
+  }
+]
